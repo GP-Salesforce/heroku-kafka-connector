@@ -4,7 +4,7 @@ This repo serves as an example of how you can run Kafka Connect on Heroku Dynos.
 ## Architecture 
 - Heroku Dyno
 - Heroku Kafka
-- Confluent Kafka Connector
+- Confluent Kafka Connector (V7.4)
 
 ## Setup
 1. Create an Heroku App
